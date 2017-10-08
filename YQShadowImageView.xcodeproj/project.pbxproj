@@ -16,7 +16,7 @@
 		D8204EF41F8A169E005792EC /* YQShadowImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = D8204EF31F8A169E005792EC /* YQShadowImageView.m */; };
 		D8204EF51F8A1ACC005792EC /* milada.png in Resources */ = {isa = PBXBuildFile; fileRef = D8204EF01F8A1662005792EC /* milada.png */; };
 		D8204EF61F8A1ACC005792EC /* nicholas.png in Resources */ = {isa = PBXBuildFile; fileRef = D8204EEF1F8A1662005792EC /* nicholas.png */; };
-		D8204EF71F8A1ACC005792EC /* adam-kool-11868.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D8204EF11F8A1670005792EC /* adam-kool-11868.jpg */; };
+		D8204EFB1F8A23E5005792EC /* adam-kool-11868.png in Resources */ = {isa = PBXBuildFile; fileRef = D8204EFA1F8A23D6005792EC /* adam-kool-11868.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,9 +32,9 @@
 		D8204EE21F8A116E005792EC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D8204EEF1F8A1662005792EC /* nicholas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nicholas.png; sourceTree = "<group>"; };
 		D8204EF01F8A1662005792EC /* milada.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = milada.png; sourceTree = "<group>"; };
-		D8204EF11F8A1670005792EC /* adam-kool-11868.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "adam-kool-11868.jpg"; sourceTree = "<group>"; };
 		D8204EF21F8A169E005792EC /* YQShadowImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YQShadowImageView.h; sourceTree = "<group>"; };
 		D8204EF31F8A169E005792EC /* YQShadowImageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YQShadowImageView.m; sourceTree = "<group>"; };
+		D8204EFA1F8A23D6005792EC /* adam-kool-11868.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "adam-kool-11868.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +76,7 @@
 				D8204EDC1F8A116E005792EC /* Assets.xcassets */,
 				D8204EF01F8A1662005792EC /* milada.png */,
 				D8204EEF1F8A1662005792EC /* nicholas.png */,
-				D8204EF11F8A1670005792EC /* adam-kool-11868.jpg */,
+				D8204EFA1F8A23D6005792EC /* adam-kool-11868.png */,
 				D8204EDE1F8A116E005792EC /* LaunchScreen.storyboard */,
 				D8204EE11F8A116E005792EC /* Info.plist */,
 				D8204EE21F8A116E005792EC /* main.m */,
@@ -151,9 +151,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8204EFB1F8A23E5005792EC /* adam-kool-11868.png in Resources */,
 				D8204EF51F8A1ACC005792EC /* milada.png in Resources */,
 				D8204EF61F8A1ACC005792EC /* nicholas.png in Resources */,
-				D8204EF71F8A1ACC005792EC /* adam-kool-11868.jpg in Resources */,
 				D8204EE01F8A116E005792EC /* LaunchScreen.storyboard in Resources */,
 				D8204EDD1F8A116E005792EC /* Assets.xcassets in Resources */,
 				D8204EDB1F8A116E005792EC /* Main.storyboard in Resources */,
