@@ -25,7 +25,7 @@
                                     <constraint firstAttribute="width" secondItem="pl7-uy-bPA" secondAttribute="height" multiplier="80:60" id="aMV-yf-SnX"/>
                                 </constraints>
                                 <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="image" keyPath="image" value="milada.png"/>
+                                    <userDefinedRuntimeAttribute type="image" keyPath="image" value="nicholas.png"/>
                                     <userDefinedRuntimeAttribute type="number" keyPath="imageCornerRaidus">
                                         <real key="value" value="6"/>
                                     </userDefinedRuntimeAttribute>
@@ -54,6 +54,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="milada.png" width="770" height="538"/>
+        <image name="nicholas.png" width="1252" height="934"/>
     </resources>
 </document>

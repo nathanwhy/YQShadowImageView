@@ -10,7 +10,7 @@ Thanks to [olddonkey](https://github.com/olddonkey).
 
 ## Renderings
 
-![Bird](Screenshots/Bird.png)
+![Bird](Screenshots/Bird.png) ![Mountain](Screenshots/Mountain.png) ![Stand](Screenshots/Stand.png)
 
 
 ## Features
